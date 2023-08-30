@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tyleradams2002/Robofriends/static/css/main.cd150443.css",
+    "main.js": "/tyleradams2002/Robofriends/static/js/main.22f7ee98.js",
+    "static/js/787.32032a02.chunk.js": "/tyleradams2002/Robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/tyleradams2002/Robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/tyleradams2002/Robofriends/index.html",
+    "main.cd150443.css.map": "/tyleradams2002/Robofriends/static/css/main.cd150443.css.map",
+    "main.22f7ee98.js.map": "/tyleradams2002/Robofriends/static/js/main.22f7ee98.js.map",
+    "787.32032a02.chunk.js.map": "/tyleradams2002/Robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd150443.css",
+    "static/js/main.22f7ee98.js"
+  ]
+}
